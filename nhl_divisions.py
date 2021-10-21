@@ -1,6 +1,6 @@
 import csv
 
-from nhl_team import NHLTeam, NHLdivision
+from nhl_team import NHLTeam, NHLDivision
 
 NHL = []
 
